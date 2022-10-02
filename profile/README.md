@@ -17,7 +17,7 @@ Electrik Supports:
 
 ## Get Started
 
-To get started goto [@electrik/electrik](https://github.com/electrik/electrik) and follow the instructions. 
+To get started goto [electrikhq/electrik](https://github.com/electrikhq/electrik) and follow the instructions. 
 
 ## Documentation
 
