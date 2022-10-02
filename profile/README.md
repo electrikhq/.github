@@ -1,6 +1,6 @@
-# Your Next Big Thing Starts Here!
+# Your Next Big SaaS Starts Here!
 
-Electrik is a fulll featured starter kit for your next SaaS application. It's built on top of Laravel, Livewire, Slate, Tailwind, and more.
+Electrik is a fulll featured starter kit for your next SaaS application. It's built on top of [Laravel](https://laravel.com), [Livewire](https://laravel-livewire.com), [Slate](https://github.com/neerajsohal/slate), [Tailwind](https://tailwindcss.com), and more.
 
 ## Features
 
