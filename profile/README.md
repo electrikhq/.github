@@ -21,4 +21,4 @@ To get started goto [electrikhq/electrik](https://github.com/electrikhq/electrik
 
 ## Documentation
 
-Full featured documentation is under development and can be found in [docs](https://github.com/electrik/docs) repo.
+Full featured documentation is under development and can be found in [docs](https://docs.electrik.dev/) repo.
