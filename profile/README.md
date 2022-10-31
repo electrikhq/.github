@@ -25,3 +25,7 @@ To get started goto [electrikhq/electrik](https://github.com/electrikhq/electrik
 ## Documentation
 
 Documentation is under continous development and can be found in [docs](https://docs.electrik.dev/).
+
+## Sponsor
+
+If you like Elelctik and find it useful, do connsider sponsoring thhe project. It helps us in maintaining server costs, etc.
