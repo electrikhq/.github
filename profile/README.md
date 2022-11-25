@@ -1,13 +1,18 @@
-# Your Next Big SaaS Starts Here!
+# Hello, World!
 
-Electrik is a fulll featured starter kit for your next SaaS application. It's built on top of [Laravel](https://laravel.com), [Livewire](https://laravel-livewire.com), [Slate](https://github.com/neerajsohal/slate), [Tailwind](https://tailwindcss.com), and more.
+> Electrik is a Laravel package and a starter kit that takes out the pain of building a SaaS application from scratch. 
 
+Electrik provides all the core features that are required for any SaaS. For example, it supports **recurring billing via cashier**, **multiple teams**, User configurable **roles and permissions**, and much much more.
 
-![Dashbobard](/profile/art/dashboard.png)
+## Why Another Laravel Starter Kit?
+
+It's true that there are a lot of Laravel SaaS starter kits available on the Internet and they are bloody good too. What breaks my heart is that almost every of these SaaS starter kits has two versions, one free, and one paid. These kits in their free versions, provide the bare minimum features. Some would lock billing as a paid feature and others would block team management as a paid feature. In my view, this is exactly what OSS philosophy is not. I am not at all saying that they should not charge for their creations. What I am saying is that there should be an open-source, 100% free, and full-featured alternative also available for people to choose from. My intention is just that.
 
 ## Features
 
-Electrik Supports:
+![Dashbobard](/profile/art/dashboard.png)
+
+Electrik is based on out of box, plug and start building model. Electrik currently supports:
 
 * User profiles
 * Role and Permissions
@@ -18,14 +23,15 @@ Electrik Supports:
 * Tailwind based dashboard
 * and much more
 
-## Get Started
+## Sounds interesting, how to use it?
 
 To get started goto [electrikhq/electrik](https://github.com/electrikhq/electrik) and follow the instructions. 
 
-## Documentation
+## What about documentation?
 
-Documentation is under continous development and can be found in [docs](https://docs.electrik.dev/).
+Documentation for Electrik is currently  under continous development and can be found in [docs](https://docs.electrik.dev/).
 
-## Sponsor
+## I like what you are doing, how can I help?
 
-If you like Elelctik and find it useful, do connsider sponsoring thhe project. It helps us in maintaining server costs, etc.
+There are many ways you can help me. You can be a tester and create issues and big reports, you can contribute to the code, if you want, you can also sponsor me.
+
