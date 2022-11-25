@@ -33,5 +33,5 @@ Documentation for Electrik is currently  under continous development and can be 
 
 ## I like what you are doing, how can I help?
 
-There are many ways you can help me. You can be a tester and create issues and big reports, you can contribute to the code, if you want, you can also sponsor me.
+There are many ways you can help me. You can be a tester and create issues and big reports, you can contribute to the code, if you want, you can also [sponsor](https://github.com/sponsors/neerajsohal) me.
 
