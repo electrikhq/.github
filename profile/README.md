@@ -23,6 +23,18 @@ Electrik is based on out of box, plug and start building model. Electrik current
 * Tailwind based dashboard
 * and much more
 
+## How much can I save with Electrik
+
+Well here is a quick comparison of some of the leading names:
+
+|   Starter Kit         |    Pricing (highest tier)  |
+|-----------------------|----------------------------|
+|   Laravel Spark       |   $ 199 / one-time         |
+|   Devdojo Wave        |   $ 99 / per year          |
+|   saasstarterkit.app  |   $ 449 / one-time         |
+|   Sassify             |   $ 79 / one-time          |
+
+
 ## Sounds interesting, how to use it?
 
 To get started goto [electrikhq/electrik](https://github.com/electrikhq/electrik) and follow the instructions. 
@@ -33,5 +45,5 @@ Documentation for Electrik is currently  under continous development and can be 
 
 ## I like what you are doing, how can I help?
 
-There are many ways you can help me. You can be a tester and create issues and big reports, you can contribute to the code, if you want, you can also [sponsor](https://github.com/sponsors/neerajsohal) me.
+There are many ways you can help me. You can be a tester and create issues and big reports, you can contribute to the code, if you want, you can also [sponsor](https://github.com/sponsors/electrikhq) me.
 
