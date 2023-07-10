@@ -47,3 +47,13 @@ Documentation for Electrik is currently  under continous development and can be 
 
 There are many ways you can help me. You can be a tester and create issues and big reports, you can contribute to the code, if you want, you can also [sponsor](https://github.com/sponsors/electrikhq) me.
 
+## Current Sponsors
+
+Electrik would not have been possible without our generous enterprise sponsors:
+
+* [Netsouls](https://www.studionetsouls.com/)
+* [Quick Brown Fox](https://qbf.company)
+* [Arkreach](https://arkreach.com)
+* [Digital Ocean](https://m.do.co/c/c7b14ea05587)
+
+Do you wish to put your link here? Get in touch whit me [here](mailto:hello@neerajkumar.name).
