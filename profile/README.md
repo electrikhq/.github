@@ -1,59 +1,124 @@
 # Hello, World!
 
-> Electrik is a Laravel package and a starter kit that takes out the pain of building a SaaS application from scratch. 
+> Electrik is a **source-available Laravel starter kit** that takes out the pain of building a SaaS application from scratch.
 
-Electrik provides all the core features that are required for any SaaS. For example, it supports **recurring billing via cashier**, **multiple teams**, User configurable **roles and permissions**, and much much more.
+Electrik provides the core building blocks required by most SaaS products — including **recurring billing via Laravel Cashier**, **team support**, **roles and permissions**, and more — so you can focus on your product instead of boilerplate.
 
-## Why Another Laravel Starter Kit?
+---
 
-It's true that there are a lot of Laravel SaaS starter kits available on the Internet and they are bloody good too. What breaks my heart is that almost every of these SaaS starter kits has two versions, one free, and one paid. These kits in their free versions, provide the bare minimum features. Some would lock billing as a paid feature and others would block team management as a paid feature. In my view, this is exactly what OSS philosophy is not. I am not at all saying that they should not charge for their creations. What I am saying is that there should be an open-source, 100% free, and full-featured alternative also available for people to choose from. My intention is just that.
+## Why another Laravel starter kit?
+
+There are many excellent Laravel SaaS starter kits available today.
+
+Electrik exists to offer a **full-featured, accessible foundation** for developers who want to learn, experiment, and build real SaaS products without being forced into early paywalls or artificially limited feature sets.
+
+The Community Edition includes the complete feature set, making it suitable for:
+- Indie hackers and solo developers
+- Learning and experimentation
+- Open-source projects
+- Pre-revenue SaaS ideas
+
+For companies and professional use, Electrik offers a **clear commercial license** to support long-term maintenance and development.
+
+---
 
 ## Features
 
-![Dashbobard](/profile/art/dashboard.png)
+![Dashboard](/profile/art/dashboard.png)
 
-Electrik is based on out of box, plug and start building model. Electrik currently supports:
+Electrik follows a **plug-and-build** approach. Out of the box, it supports:
 
-* User profiles
-* Role and Permissions
-* Notifications
-* Teams
-* Subscription Billing (currently customized only for India. Multi country support is in WIP)
-* Zero config installation
-* Tailwind based dashboard
-* and much more
+- User profiles
+- Roles and permissions
+- Notifications
+- Teams
+- Subscription billing (currently optimized for India; multi-country support is in progress)
+- Zero-config installation
+- Tailwind-based dashboard
+- And more
 
-## How much can I save with Electrik
+---
 
-Well here is a quick comparison of some of the leading names:
+## How much can I save with Electrik?
 
-|   Starter Kit         |    Pricing (highest tier)  |
-|-----------------------|----------------------------|
-|   Laravel Spark       |   $ 199 / one-time         |
-|   Devdojo Wave        |   $ 99 / per year          |
-|   saasstarterkit.app  |   $ 449 / one-time         |
-|   Sassify             |   $ 79 / one-time          |
+Electrik provides a comparable foundation to many popular SaaS starter kits:
 
+| Starter Kit            | Pricing (highest tier) |
+|------------------------|------------------------|
+| Laravel Spark          | $199 / one-time        |
+| Devdojo Wave           | $99 / year             |
+| saasstarterkit.app     | $449 / one-time        |
+| Sassify                | $79 / one-time         |
 
-## Sounds interesting, how to use it?
+Electrik’s Community Edition is available for personal, educational, and indie use, with commercial licensing available when you need it.
 
-To get started goto [electrikhq/electrik](https://github.com/electrikhq/electrik) and follow the instructions. 
+---
 
-## What about documentation?
+## Sounds interesting — how do I use it?
 
-Documentation for Electrik is currently  under continous development and can be found in [docs](https://docs.electrik.dev/).
+To get started, visit the main repository:
 
-## I like what you are doing, how can I help?
+👉 [electrikhq/electrik](https://github.com/electrikhq/electrik)
 
-There are many ways you can help me. You can be a tester and create issues and big reports, you can contribute to the code, if you want, you can also [sponsor](https://github.com/sponsors/electrikhq) me.
+Follow the installation instructions there.
 
-## Current Sponsors
+---
 
-Electrik would not have been possible without our generous enterprise sponsors:
+## Documentation
 
-* [Netsouls](https://www.studionetsouls.com/)
-* [Quick Brown Fox](https://qbf.company)
-* [Arkreach](https://arkreach.com)
-* [Digital Ocean](https://m.do.co/c/c7b14ea05587)
+Documentation is under continuous development and available at:
 
-Do you wish to put your link here? Get in touch whit me [here](mailto:hello@neerajkumar.name).
+👉 https://docs.electrik.dev/
+
+---
+
+## Licensing
+
+Electrik is licensed under the **Business Source License (BSL)**.
+
+### In short:
+
+**Free to use for:**
+- Personal projects
+- Indie hackers and solo developers
+- Open-source projects
+- Educational use
+- Pre-revenue experimentation
+
+**Commercial license required for:**
+- Companies or organizations
+- Client, freelance, or agency work
+- Internal business tools
+- Commercial products or services
+- Use as part of paid employment
+
+Each released version of Electrik automatically becomes **fully open source (Apache 2.0)** four years after its release.
+
+See the [`LICENSE`](https://github.com/electrikhq/electrik/blob/4.x/LICENSE) file for full terms.
+
+---
+
+## I like what you are doing — how can I help?
+
+You can help Electrik in many ways:
+
+- Try it out and report issues
+- Contribute code or documentation
+- Share feedback and ideas
+- Sponsor the project
+
+👉 https://github.com/sponsors/electrikhq
+
+---
+
+## Current sponsors
+
+Electrik would not have been possible without support from:
+
+- [Netsouls](https://www.studionetsouls.com/)
+- [Quick Brown Fox](https://qbf.company)
+- [Arkreach](https://arkreach.com)
+- [DigitalOcean](https://m.do.co/c/c7b14ea05587)
+
+Want to support Electrik or list your company here?  
+Get in touch at [hello@electrik.dev](mailto:hello@electrik.dev).
